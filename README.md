@@ -29,7 +29,7 @@ Através do dataset escolhido, queremos descobrir se o **consumo de álcool** do
 - [x] 15/11 - Análise exploratória do DataSet
 - [x] 17/11 - Primeira versão do algoritmo escolhido
 - [x] 19/11 - Entrega dos resultados
-- [ ] 24/11 - Entrega do projeto finalizado
+- [x] 24/11 - Entrega do projeto finalizado
 
 ## Bibliografias utilizadas para a fundamentação do projeto
 
