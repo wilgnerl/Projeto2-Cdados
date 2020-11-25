@@ -48,3 +48,15 @@ Programa para fortalecer factores protectores que limitan el consumo de tabaco y
 
 [Orgânica, Natural Marketing - Algoritmo de Classificação Naive Bayes
 ](https://www.organicadigital.com/blog/algoritmo-de-classificacao-naive-bayes/#:~:text=O%20algoritmo%20de%20Naive%20Bayes,dado%20que%20tem%20a%20doen%C3%A7a%E2%80%9D.)
+
+[Regressão Logística - USP](https://edisciplinas.usp.br/pluginfile.php/3769787/mod_resource/content/1/09_RegressaoLogistica.pdf)
+
+[Sklearn - Regressão Logística](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+
+[Sklearn - MultinomialNB](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html)
+
+[Sklearn - RandomForest Classificador](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+
+[Matheusfacure - Regressão Logística](https://matheusfacure.github.io/2017/02/25/regr-log/)
+
+[DataVisualization - SeaBorn](https://seaborn.pydata.org/)
